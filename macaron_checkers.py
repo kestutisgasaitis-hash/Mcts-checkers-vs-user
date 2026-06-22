@@ -173,8 +173,7 @@ def rollout(board: kz.Board, side: int, root_side: int) -> float:
     current_side = side
 
     depth = 0
-    max_depth = 28
-
+    max_depth = random.randint(28, 32)
     qmc = 0
     qmc_limit = 10
 
