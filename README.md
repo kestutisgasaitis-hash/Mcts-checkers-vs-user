@@ -38,3 +38,9 @@ Email: kestutisgasaitis@gmail.com
     At the end, the King does not simply choose the best child.
     He chooses the child belonging to the strongest dynasty.
     That child is the move selected by MCTS. 😆😆😆
+    
+    ![Alt text](mcts_kingdom_en.svg)
+    
+
+    
+    
