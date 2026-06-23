@@ -3,8 +3,8 @@ Mcts based checkers engine , pygame gui .
 Email: kestutisgasaitis@gmail.com
 ![Alt text](macaron_checkers.jpg)
 
-The Kingdom of MCTS
-Imagine every node is a small kingdom.
+             The Kingdom of MCTS
+   Imagine every node is a small kingdom.
 Each kingdom keeps records:
 How many travelers visited it (visits)
 How much treasure it earned (wins)
