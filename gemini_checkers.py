@@ -230,12 +230,12 @@ def mcts_search(root_position:Position,num_rounds:int,time_budget:float):
         
         # Simulation
         curr = node.position
-        max_depth = random.randint( 28, 30)
-        for _ in range(max_depth):
+        #max_depth = random.randint( 28, 30)
+        for _ in range(32):
             moves = curr.generate_moves()
             if not moves: payout = 1.0 if curr.side == BLACK else 0.0; break
             curr = curr.make_move(random.choice(moves))
-            if curr.moves_without_capture >= 18: # 
+            if curr.moves_without_capture >= 10: # 6-12
                 payout = 0.5
                 break
         else: payout = 0.5
