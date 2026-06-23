@@ -35,4 +35,4 @@ Learn from the result.
 Eventually, some family branches become famous for producing victories, while others earn a reputation for failure.
 At the end, the King does not simply choose the best child.
 He chooses the child belonging to the strongest dynasty.
-That child is the move selected by MCTS.
+That child is the move selected by MCTS. 😆😆😆
