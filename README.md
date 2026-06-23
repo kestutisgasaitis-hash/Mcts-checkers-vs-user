@@ -1,6 +1,13 @@
 # Mcts-checkers-vs-user
 Mcts based checkers engine , pygame gui .
-Email: kestutisgasaitis@gmail.com
+
+To launch main program run:
+python3 macaron_checkers.py 
+
+To test move generation ie run perft:
+python3 Kreuzer_opt.py  
+
+Email kestutisgasaitis@gmail.com
 ![Alt text](macaron_checkers.jpg)
 
     The Kingdom of Monte Carlo Tree Search
