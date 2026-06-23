@@ -415,8 +415,5 @@ class CheckersGUI:
         pygame.quit()
 
 if __name__ == "__main__":
-    CheckersGUI(10000,2.0).run() # let 2 sec per move
-    
-    
-    
+    CheckersGUI(10000,2.2).run() # let 2.2 sec per move
     
