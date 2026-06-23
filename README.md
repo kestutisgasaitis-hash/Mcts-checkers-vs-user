@@ -1,8 +1,10 @@
 # Mcts-checkers-vs-user
-Mcts based checkers engine , pygame gui .
+Mcts based checkers engines , pygame gui .
 
-To launch main program run:
+To launch main programs run:
 python3 macaron_checkers.py 
+or
+python3 gemini_checkers.py
 
 To test move generation ie run perft:
 python3 Kreuzer_opt.py  
