@@ -39,7 +39,8 @@ Email: kestutisgasaitis@gmail.com
     He chooses the child belonging to the strongest dynasty.
     That child is the move selected by MCTS. 😆😆😆
     
-    ![Alt text](mcts_kingdom_en.svg)
+    ![Alt text](mcts_kingdom_en.jpg)
+    
     
 
     
