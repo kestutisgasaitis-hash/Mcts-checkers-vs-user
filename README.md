@@ -51,3 +51,4 @@ Email kestutisgasaitis@gmail.com
 ![Alt text](mc_tree.jpg)
 
 Which child is the best one ?
+gemini_checkers.py added.
